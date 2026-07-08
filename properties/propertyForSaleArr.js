@@ -1,4 +1,4 @@
-  const propertyForSaleArr = [
+   const propertyForSaleArr = [
     {
         propertyLocation: 'Kensington, London',
         priceGBP: 890000,
@@ -30,4 +30,4 @@
 ]
 
 
-export default (propertyForSaleArr)
+export default propertyForSaleArr

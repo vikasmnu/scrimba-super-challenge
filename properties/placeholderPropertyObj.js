@@ -6,4 +6,4 @@
     image: 'placeholder.jpg'
 }
 
-export default (placeholderPropertyObj)
+export default placeholderPropertyObj
